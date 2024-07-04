@@ -1,4 +1,4 @@
-# Predictive Analytics for Magazine Subscription Behavior
+# Magazine Subscription Behavior Analysis
 
 **Description:**
 This repository contains code and documentation for a project aimed at understanding magazine subscription behavior. The project focuses on analyzing a dataset containing various customer attributes and their subscription decisions. Key metrics, models, and recommendations are provided to help businesses improve subscription sales.
